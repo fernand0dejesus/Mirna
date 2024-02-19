@@ -1,5 +1,5 @@
 body{
-    background-color: gray;
+    background-color: lightblue;
 }
 
 #tarjetas{
@@ -24,7 +24,7 @@ h1{
 footer{
     margin-top: 5rem;
     margin-bottom: 2rem;
-    background-color: lightblue;
+    background-color: rgb(107, 107, 107);
 }
 
 h5{
