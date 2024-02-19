@@ -1,0 +1,35 @@
+body{
+    background-color: gray;
+}
+
+#tarjetas{
+    padding-top: 2rem;
+}
+
+.card{
+    margin-top: 2rem;
+}
+
+.tarjetas{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    padding-top: 1.2rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+
+footer{
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+    background-color: lightblue;
+}
+
+h5{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: black;
+    text-align: center;
+}
